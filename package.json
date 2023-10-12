@@ -1,0 +1,22 @@
+{
+  "name": "countdown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.3",
+    "date-fns": "^2.30.0",
+    "inquirer": "^9.2.11",
+    "play-sound": "^1.1.6"
+  },
+  "devDependencies": {
+    "@types/play-sound": "^1.1.0"
+  }
+}
